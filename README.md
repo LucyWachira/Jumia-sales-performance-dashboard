@@ -9,7 +9,7 @@ An interactive Excel dashboard designed to analyze over 5,000 e-commerce transac
 An interactive Excel dashboard designed to analyze over 5,000 e-commerce transactions, standardize messy location data, and track key regional profitability metrics.
 
 ## Final Dashboard Preview
-![Jumia Sales Dashboard](dashboard.png)
+![Jumia Sales Dashboard](Jumia-sales-performance-dashboard.png)
 
 ## How to Interact with the Live Workbook
 To interact with the dynamic formulas, PivotTables, and slicers yourself:
