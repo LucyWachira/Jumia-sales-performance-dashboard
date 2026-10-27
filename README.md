@@ -3,7 +3,7 @@
 An end-to-end data analytics project transforming over 5,000 raw e-commerce transaction records from Jumia Nigeria into an interactive, insight-driven business dashboard.
 
 ## 📊 Final Dashboard Preview
-![Jumia Sales Dashboard](dashboard.png)
+![Jumia Sales Dashboard](Jumia-sales-performance-dashboard.png)
 
 ---
 
