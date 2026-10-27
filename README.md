@@ -1,4 +1,4 @@
-# Jumia-sales-performance-dashboard
+
 # Jumia Nigeria Sales Performance Dashboard
 
 An interactive Excel dashboard designed to analyze over 5,000 e-commerce transactions, standardize messy location data, and track key regional profitability metrics.
